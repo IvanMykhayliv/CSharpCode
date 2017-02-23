@@ -1,0 +1,43 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA GeForce GTS 240 (ID=0x607)
+    Vendor:   NVIDIA
+    VRAM:     1005 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: K:\CS203L\CS203L Fall 2015 Game Project\Tower Defense\TowerDefense_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading K:\CS203L\CS203L Fall 2015 Game Project\Tower Defense\TowerDefense_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: K:\CS203L\CS203L Fall 2015 Game Project\Tower Defense\TowerDefense_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading K:\CS203L\CS203L Fall 2015 Game Project\Tower Defense\TowerDefense_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: K:\CS203L\CS203L Fall 2015 Game Project\Tower Defense\TowerDefense_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading K:\CS203L\CS203L Fall 2015 Game Project\Tower Defense\TowerDefense_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: K:\CS203L\CS203L Fall 2015 Game Project\Tower Defense\TowerDefense_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading K:\CS203L\CS203L Fall 2015 Game Project\Tower Defense\TowerDefense_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: K:\CS203L\CS203L Fall 2015 Game Project\Tower Defense\TowerDefense_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading K:\CS203L\CS203L Fall 2015 Game Project\Tower Defense\TowerDefense_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  1.235 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: K:\CS203L\CS203L Fall 2015 Game Project\Tower Defense\TowerDefense_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: K:\CS203L\CS203L Fall 2015 Game Project\Tower Defense\TowerDefense_Data\Managed\System.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.860132 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.344925 ms (FindLiveObjects: 0.031951 ms CreateObjectMapping: 0.021557 ms MarkObjects: 0.250224 ms  DeleteObjects: 0.040420 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.740023 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 344.
+Total: 0.477351 ms (FindLiveObjects: 0.034261 ms CreateObjectMapping: 0.041190 ms MarkObjects: 0.362248 ms  DeleteObjects: 0.038881 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.497369 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 279.
+Total: 0.442705 ms (FindLiveObjects: 0.031566 ms CreateObjectMapping: 0.035416 ms MarkObjects: 0.335300 ms  DeleteObjects: 0.040035 ms)
+

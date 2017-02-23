@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 712350c03d4c0644ea091cc10772175a
+timeCreated: 1458673913
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - smallEnemyPrefab: {instanceID: 0}
+  - MicahDeathParticlesPrefab: {instanceID: 0}
+  - cherryParticlesPrefab: {instanceID: 0}
+  - fire: {fileID: 129690, guid: ed77d98f6e9709b4ab73ad14f01cff29, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7689 @@
+fileFormatVersion: 2
+guid: 64b7b4d59c44635409ac0ecd1141f7ab
+timeCreated: 1449001943
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemies sheet_0
+    21300002: Enemies sheet_1
+    21300004: Enemies sheet_2
+    21300006: Enemies sheet_3
+    21300008: Enemies sheet_4
+    21300010: Enemies sheet_5
+    21300012: Enemies sheet_6
+    21300014: Enemies sheet_7
+    21300016: Enemies sheet_8
+    21300018: Enemies sheet_9
+    21300020: Enemies sheet_10
+    21300022: Enemies sheet_11
+    21300024: Enemies sheet_12
+    21300026: Enemies sheet_13
+    21300028: Enemies sheet_14
+    21300030: Enemies sheet_15
+    21300032: Enemies sheet_16
+    21300034: Enemies sheet_17
+    21300036: Enemies sheet_18
+    21300038: Enemies sheet_19
+    21300040: Enemies sheet_20
+    21300042: Enemies sheet_21
+    21300044: Enemies sheet_22
+    21300046: Enemies sheet_23
+    21300048: Enemies sheet_24
+    21300050: Enemies sheet_25
+    21300052: Enemies sheet_26
+    21300054: Enemies sheet_27
+    21300056: Enemies sheet_28
+    21300058: Enemies sheet_29
+    21300060: Enemies sheet_30
+    21300062: Enemies sheet_31
+    21300064: Enemies sheet_32
+    21300066: Enemies sheet_33
+    21300068: Enemies sheet_34
+    21300070: Enemies sheet_35
+    21300072: Enemies sheet_36
+    21300074: Enemies sheet_37
+    21300076: Enemies sheet_38
+    21300078: Enemies sheet_39
+    21300080: Enemies sheet_40
+    21300082: Enemies sheet_41
+    21300084: Enemies sheet_42
+    21300086: Enemies sheet_43
+    21300088: Enemies sheet_44
+    21300090: Enemies sheet_45
+    21300092: Enemies sheet_46
+    21300094: Enemies sheet_47
+    21300096: Enemies sheet_48
+    21300098: Enemies sheet_49
+    21300100: Enemies sheet_50
+    21300102: Enemies sheet_51
+    21300104: Enemies sheet_52
+    21300106: Enemies sheet_53
+    21300108: Enemies sheet_54
+    21300110: Enemies sheet_55
+    21300112: Enemies sheet_56
+    21300114: Enemies sheet_57
+    21300116: Enemies sheet_58
+    21300118: Enemies sheet_59
+    21300120: Enemies sheet_60
+    21300122: Enemies sheet_61
+    21300124: Enemies sheet_62
+    21300126: Enemies sheet_63
+    21300128: Enemies sheet_64
+    21300130: Enemies sheet_65
+    21300132: Enemies sheet_66
+    21300134: Enemies sheet_67
+    21300136: Enemies sheet_68
+    21300138: Enemies sheet_69
+    21300140: Enemies sheet_70
+    21300142: Enemies sheet_71
+    21300144: Enemies sheet_72
+    21300146: Enemies sheet_73
+    21300148: Enemies sheet_74
+    21300150: Enemies sheet_75
+    21300152: Enemies sheet_76
+    21300154: Enemies sheet_77
+    21300156: Enemies sheet_78
+    21300158: Enemies sheet_79
+    21300160: Enemies sheet_80
+    21300162: Enemies sheet_81
+    21300164: Enemies sheet_82
+    21300166: Enemies sheet_83
+    21300168: Enemies sheet_84
+    21300170: Enemies sheet_85
+    21300172: Enemies sheet_86
+    21300174: Enemies sheet_87
+    21300176: Enemies sheet_88
+    21300178: Enemies sheet_89
+    21300180: Enemies sheet_90
+    21300182: Enemies sheet_91
+    21300184: Enemies sheet_92
+    21300186: Enemies sheet_93
+    21300188: Enemies sheet_94
+    21300190: Enemies sheet_95
+    21300192: Enemies sheet_96
+    21300194: Enemies sheet_97
+    21300196: Enemies sheet_98
+    21300198: Enemies sheet_99
+    21300200: Enemies sheet_100
+    21300202: Enemies sheet_101
+    21300204: Enemies sheet_102
+    21300206: Enemies sheet_103
+    21300208: Enemies sheet_104
+    21300210: Enemies sheet_105
+    21300212: Enemies sheet_106
+    21300214: Enemies sheet_107
+    21300216: Enemies sheet_108
+    21300218: Enemies sheet_109
+    21300220: Enemies sheet_110
+    21300222: Enemies sheet_111
+    21300224: Enemies sheet_112
+    21300226: Enemies sheet_113
+    21300228: Enemies sheet_114
+    21300230: Enemies sheet_115
+    21300232: Enemies sheet_116
+    21300234: Enemies sheet_117
+    21300236: Enemies sheet_118
+    21300238: Enemies sheet_119
+    21300240: Enemies sheet_120
+    21300242: Enemies sheet_121
+    21300244: Enemies sheet_122
+    21300246: Enemies sheet_123
+    21300248: Enemies sheet_124
+    21300250: Enemies sheet_125
+    21300252: Enemies sheet_126
+    21300254: Enemies sheet_127
+    21300256: Enemies sheet_128
+    21300258: Enemies sheet_129
+    21300260: Enemies sheet_130
+    21300262: Enemies sheet_131
+    21300264: Enemies sheet_132
+    21300266: Enemies sheet_133
+    21300268: Enemies sheet_134
+    21300270: Enemies sheet_135
+    21300272: Enemies sheet_136
+    21300274: Enemies sheet_137
+    21300276: Enemies sheet_138
+    21300278: Enemies sheet_139
+    21300280: Enemies sheet_140
+    21300282: Enemies sheet_141
+    21300284: Enemies sheet_142
+    21300286: Enemies sheet_143
+    21300288: Enemies sheet_144
+    21300290: Enemies sheet_145
+    21300292: Enemies sheet_146
+    21300294: Enemies sheet_147
+    21300296: Enemies sheet_148
+    21300298: Enemies sheet_149
+    21300300: Enemies sheet_150
+    21300302: Enemies sheet_151
+    21300304: Enemies sheet_152
+    21300306: Enemies sheet_153
+    21300308: Enemies sheet_154
+    21300310: Enemies sheet_155
+    21300312: Enemies sheet_156
+    21300314: Enemies sheet_157
+    21300316: Enemies sheet_158
+    21300318: Enemies sheet_159
+    21300320: Enemies sheet_160
+    21300322: Enemies sheet_161
+    21300324: Enemies sheet_162
+    21300326: Enemies sheet_163
+    21300328: Enemies sheet_164
+    21300330: Enemies sheet_165
+    21300332: Enemies sheet_166
+    21300334: Enemies sheet_167
+    21300336: Enemies sheet_168
+    21300338: Enemies sheet_169
+    21300340: Enemies sheet_170
+    21300342: Enemies sheet_171
+    21300344: Enemies sheet_172
+    21300346: Enemies sheet_173
+    21300348: Enemies sheet_174
+    21300350: Enemies sheet_175
+    21300352: Enemies sheet_176
+    21300354: Enemies sheet_177
+    21300356: Enemies sheet_178
+    21300358: Enemies sheet_179
+    21300360: Enemies sheet_180
+    21300362: Enemies sheet_181
+    21300364: Enemies sheet_182
+    21300366: Enemies sheet_183
+    21300368: Enemies sheet_184
+    21300370: Enemies sheet_185
+    21300372: Enemies sheet_186
+    21300374: Enemies sheet_187
+    21300376: Enemies sheet_188
+    21300378: Enemies sheet_189
+    21300380: Enemies sheet_190
+    21300382: Enemies sheet_191
+    21300384: Enemies sheet_192
+    21300386: Enemies sheet_193
+    21300388: Enemies sheet_194
+    21300390: Enemies sheet_195
+    21300392: Enemies sheet_196
+    21300394: Enemies sheet_197
+    21300396: Enemies sheet_198
+    21300398: Enemies sheet_199
+    21300400: Enemies sheet_200
+    21300402: Enemies sheet_201
+    21300404: Enemies sheet_202
+    21300406: Enemies sheet_203
+    21300408: Enemies sheet_204
+    21300410: Enemies sheet_205
+    21300412: Enemies sheet_206
+    21300414: Enemies sheet_207
+    21300416: Enemies sheet_208
+    21300418: Enemies sheet_209
+    21300420: Enemies sheet_210
+    21300422: Enemies sheet_211
+    21300424: Enemies sheet_212
+    21300426: Enemies sheet_213
+    21300428: Enemies sheet_214
+    21300430: Enemies sheet_215
+    21300432: Enemies sheet_216
+    21300434: Enemies sheet_217
+    21300436: Enemies sheet_218
+    21300438: Enemies sheet_219
+    21300440: Enemies sheet_220
+    21300442: Enemies sheet_221
+    21300444: Enemies sheet_222
+    21300446: Enemies sheet_223
+    21300448: Enemies sheet_224
+    21300450: Enemies sheet_225
+    21300452: Enemies sheet_226
+    21300454: Enemies sheet_227
+    21300456: Enemies sheet_228
+    21300458: Enemies sheet_229
+    21300460: Enemies sheet_230
+    21300462: Enemies sheet_231
+    21300464: Enemies sheet_232
+    21300466: Enemies sheet_233
+    21300468: Enemies sheet_234
+    21300470: Enemies sheet_235
+    21300472: Enemies sheet_236
+    21300474: Enemies sheet_237
+    21300476: Enemies sheet_238
+    21300478: Enemies sheet_239
+    21300480: Enemies sheet_240
+    21300482: Enemies sheet_241
+    21300484: Enemies sheet_242
+    21300486: Enemies sheet_243
+    21300488: Enemies sheet_244
+    21300490: Enemies sheet_245
+    21300492: Enemies sheet_246
+    21300494: Enemies sheet_247
+    21300496: Enemies sheet_248
+    21300498: Enemies sheet_249
+    21300500: Enemies sheet_250
+    21300502: Enemies sheet_251
+    21300504: Enemies sheet_252
+    21300506: Enemies sheet_253
+    21300508: Enemies sheet_254
+    21300510: Enemies sheet_255
+    21300512: Enemies sheet_256
+    21300514: Enemies sheet_257
+    21300516: Enemies sheet_258
+    21300518: Enemies sheet_259
+    21300520: Enemies sheet_260
+    21300522: Enemies sheet_261
+    21300524: Enemies sheet_262
+    21300526: Enemies sheet_263
+    21300528: Enemies sheet_264
+    21300530: Enemies sheet_265
+    21300532: Enemies sheet_266
+    21300534: Enemies sheet_267
+    21300536: Enemies sheet_268
+    21300538: Enemies sheet_269
+    21300540: Enemies sheet_270
+    21300542: Enemies sheet_271
+    21300544: Enemies sheet_272
+    21300546: Enemies sheet_273
+    21300548: Enemies sheet_274
+    21300550: Enemies sheet_275
+    21300552: Enemies sheet_276
+    21300554: Enemies sheet_277
+    21300556: Enemies sheet_278
+    21300558: Enemies sheet_279
+    21300560: Enemies sheet_280
+    21300562: Enemies sheet_281
+    21300564: Enemies sheet_282
+    21300566: Enemies sheet_283
+    21300568: Enemies sheet_284
+    21300570: Enemies sheet_285
+    21300572: Enemies sheet_286
+    21300574: Enemies sheet_287
+    21300576: Enemies sheet_288
+    21300578: Enemies sheet_289
+    21300580: Enemies sheet_290
+    21300582: Enemies sheet_291
+    21300584: Enemies sheet_292
+    21300586: Enemies sheet_293
+    21300588: Enemies sheet_294
+    21300590: Enemies sheet_295
+    21300592: Enemies sheet_296
+    21300594: Enemies sheet_297
+    21300596: Enemies sheet_298
+    21300598: Enemies sheet_299
+    21300600: Enemies sheet_300
+    21300602: Enemies sheet_301
+    21300604: Enemies sheet_302
+    21300606: Enemies sheet_303
+    21300608: Enemies sheet_304
+    21300610: Enemies sheet_305
+    21300612: Enemies sheet_306
+    21300614: Enemies sheet_307
+    21300616: Enemies sheet_308
+    21300618: Enemies sheet_309
+    21300620: Enemies sheet_310
+    21300622: Enemies sheet_311
+    21300624: Enemies sheet_312
+    21300626: Enemies sheet_313
+    21300628: Enemies sheet_314
+    21300630: Enemies sheet_315
+    21300632: Enemies sheet_316
+    21300634: Enemies sheet_317
+    21300636: Enemies sheet_318
+    21300638: Enemies sheet_319
+    21300640: Enemies sheet_320
+    21300642: Enemies sheet_321
+    21300644: Enemies sheet_322
+    21300646: Enemies sheet_323
+    21300648: Enemies sheet_324
+    21300650: Enemies sheet_325
+    21300652: Enemies sheet_326
+    21300654: Enemies sheet_327
+    21300656: Enemies sheet_328
+    21300658: Enemies sheet_329
+    21300660: Enemies sheet_330
+    21300662: Enemies sheet_331
+    21300664: Enemies sheet_332
+    21300666: Enemies sheet_333
+    21300668: Enemies sheet_334
+    21300670: Enemies sheet_335
+    21300672: Enemies sheet_336
+    21300674: Enemies sheet_337
+    21300676: Enemies sheet_338
+    21300678: Enemies sheet_339
+    21300680: Enemies sheet_340
+    21300682: Enemies sheet_341
+    21300684: Enemies sheet_342
+    21300686: Enemies sheet_343
+    21300688: Enemies sheet_344
+    21300690: Enemies sheet_345
+    21300692: Enemies sheet_346
+    21300694: Enemies sheet_347
+    21300696: Enemies sheet_348
+    21300698: Enemies sheet_349
+    21300700: Enemies sheet_350
+    21300702: Enemies sheet_351
+    21300704: Enemies sheet_352
+    21300706: Enemies sheet_353
+    21300708: Enemies sheet_354
+    21300710: Enemies sheet_355
+    21300712: Enemies sheet_356
+    21300714: Enemies sheet_357
+    21300716: Enemies sheet_358
+    21300718: Enemies sheet_359
+    21300720: Enemies sheet_360
+    21300722: Enemies sheet_361
+    21300724: Enemies sheet_362
+    21300726: Enemies sheet_363
+    21300728: Enemies sheet_364
+    21300730: Enemies sheet_365
+    21300732: Enemies sheet_366
+    21300734: Enemies sheet_367
+    21300736: Enemies sheet_368
+    21300738: Enemies sheet_369
+    21300740: Enemies sheet_370
+    21300742: Enemies sheet_371
+    21300744: Enemies sheet_372
+    21300746: Enemies sheet_373
+    21300748: Enemies sheet_374
+    21300750: Enemies sheet_375
+    21300752: Enemies sheet_376
+    21300754: Enemies sheet_377
+    21300756: Enemies sheet_378
+    21300758: Enemies sheet_379
+    21300760: Enemies sheet_380
+    21300762: Enemies sheet_381
+    21300764: Enemies sheet_382
+    21300766: Enemies sheet_383
+    21300768: Enemies sheet_384
+    21300770: Enemies sheet_385
+    21300772: Enemies sheet_386
+    21300774: Enemies sheet_387
+    21300776: Enemies sheet_388
+    21300778: Enemies sheet_389
+    21300780: Enemies sheet_390
+    21300782: Enemies sheet_391
+    21300784: Enemies sheet_392
+    21300786: Enemies sheet_393
+    21300788: Enemies sheet_394
+    21300790: Enemies sheet_395
+    21300792: Enemies sheet_396
+    21300794: Enemies sheet_397
+    21300796: Enemies sheet_398
+    21300798: Enemies sheet_399
+    21300800: Enemies sheet_400
+    21300802: Enemies sheet_401
+    21300804: Enemies sheet_402
+    21300806: Enemies sheet_403
+    21300808: Enemies sheet_404
+    21300810: Enemies sheet_405
+    21300812: Enemies sheet_406
+    21300814: Enemies sheet_407
+    21300816: Enemies sheet_408
+    21300818: Enemies sheet_409
+    21300820: Enemies sheet_410
+    21300822: Enemies sheet_411
+    21300824: Enemies sheet_412
+    21300826: Enemies sheet_413
+    21300828: Enemies sheet_414
+    21300830: Enemies sheet_415
+    21300832: Enemies sheet_416
+    21300834: Enemies sheet_417
+    21300836: Enemies sheet_418
+    21300838: Enemies sheet_419
+    21300840: Enemies sheet_420
+    21300842: Enemies sheet_421
+    21300844: Enemies sheet_422
+    21300846: Enemies sheet_423
+    21300848: Enemies sheet_424
+    21300850: Enemies sheet_425
+    21300852: Enemies sheet_426
+    21300854: Enemies sheet_427
+    21300856: Enemies sheet_428
+    21300858: Enemies sheet_429
+    21300860: Enemies sheet_430
+    21300862: Enemies sheet_431
+    21300864: Enemies sheet_432
+    21300866: Enemies sheet_433
+    21300868: Enemies sheet_434
+    21300870: Enemies sheet_435
+    21300872: Enemies sheet_436
+    21300874: Enemies sheet_437
+    21300876: Enemies sheet_438
+    21300878: Enemies sheet_439
+    21300880: Enemies sheet_440
+    21300882: Enemies sheet_441
+    21300884: Enemies sheet_442
+    21300886: Enemies sheet_443
+    21300888: Enemies sheet_444
+    21300890: Enemies sheet_445
+    21300892: Enemies sheet_446
+    21300894: Enemies sheet_447
+    21300896: Enemies sheet_448
+    21300898: Enemies sheet_449
+    21300900: Enemies sheet_450
+    21300902: Enemies sheet_451
+    21300904: Enemies sheet_452
+    21300906: Enemies sheet_453
+    21300908: Enemies sheet_454
+    21300910: Enemies sheet_455
+    21300912: Enemies sheet_456
+    21300914: Enemies sheet_457
+    21300916: Enemies sheet_458
+    21300918: Enemies sheet_459
+    21300920: Enemies sheet_460
+    21300922: Enemies sheet_461
+    21300924: Enemies sheet_462
+    21300926: Enemies sheet_463
+    21300928: Enemies sheet_464
+    21300930: Enemies sheet_465
+    21300932: Enemies sheet_466
+    21300934: Enemies sheet_467
+    21300936: Enemies sheet_468
+    21300938: Enemies sheet_469
+    21300940: Enemies sheet_470
+    21300942: Enemies sheet_471
+    21300944: Enemies sheet_472
+    21300946: Enemies sheet_473
+    21300948: Enemies sheet_474
+    21300950: Enemies sheet_475
+    21300952: Enemies sheet_476
+    21300954: Enemies sheet_477
+    21300956: Enemies sheet_478
+    21300958: Enemies sheet_479
+    21300960: Enemies sheet_480
+    21300962: Enemies sheet_481
+    21300964: Enemies sheet_482
+    21300966: Enemies sheet_483
+    21300968: Enemies sheet_484
+    21300970: Enemies sheet_485
+    21300972: Enemies sheet_486
+    21300974: Enemies sheet_487
+    21300976: Enemies sheet_488
+    21300978: Enemies sheet_489
+    21300980: Enemies sheet_490
+    21300982: Enemies sheet_491
+    21300984: Enemies sheet_492
+    21300986: Enemies sheet_493
+    21300988: Enemies sheet_494
+    21300990: Enemies sheet_495
+    21300992: Enemies sheet_496
+    21300994: Enemies sheet_497
+    21300996: Enemies sheet_498
+    21300998: Enemies sheet_499
+    21301000: Enemies sheet_500
+    21301002: Enemies sheet_501
+    21301004: Enemies sheet_502
+    21301006: Enemies sheet_503
+    21301008: Enemies sheet_504
+    21301010: Enemies sheet_505
+    21301012: Enemies sheet_506
+    21301014: Enemies sheet_507
+    21301016: Enemies sheet_508
+    21301018: Enemies sheet_509
+    21301020: Enemies sheet_510
+    21301022: Enemies sheet_511
+    21301024: Enemies sheet_512
+    21301026: Enemies sheet_513
+    21301028: Enemies sheet_514
+    21301030: Enemies sheet_515
+    21301032: Enemies sheet_516
+    21301034: Enemies sheet_517
+    21301036: Enemies sheet_518
+    21301038: Enemies sheet_519
+    21301040: Enemies sheet_520
+    21301042: Enemies sheet_521
+    21301044: Enemies sheet_522
+    21301046: Enemies sheet_523
+    21301048: Enemies sheet_524
+    21301050: Enemies sheet_525
+    21301052: Enemies sheet_526
+    21301054: Enemies sheet_527
+    21301056: Enemies sheet_528
+    21301058: Enemies sheet_529
+    21301060: Enemies sheet_530
+    21301062: Enemies sheet_531
+    21301064: Enemies sheet_532
+    21301066: Enemies sheet_533
+    21301068: Enemies sheet_534
+    21301070: Enemies sheet_535
+    21301072: Enemies sheet_536
+    21301074: Enemies sheet_537
+    21301076: Enemies sheet_538
+    21301078: Enemies sheet_539
+    21301080: Enemies sheet_540
+    21301082: Enemies sheet_541
+    21301084: Enemies sheet_542
+    21301086: Enemies sheet_543
+    21301088: Enemies sheet_544
+    21301090: Enemies sheet_545
+    21301092: Enemies sheet_546
+    21301094: Enemies sheet_547
+    21301096: Enemies sheet_548
+    21301098: Enemies sheet_549
+    21301100: Enemies sheet_550
+    21301102: Enemies sheet_551
+    21301104: Enemies sheet_552
+    21301106: Enemies sheet_553
+    21301108: Enemies sheet_554
+    21301110: Enemies sheet_555
+    21301112: Enemies sheet_556
+    21301114: Enemies sheet_557
+    21301116: Enemies sheet_558
+    21301118: Enemies sheet_559
+    21301120: Enemies sheet_560
+    21301122: Enemies sheet_561
+    21301124: Enemies sheet_562
+    21301126: Enemies sheet_563
+    21301128: Enemies sheet_564
+    21301130: Enemies sheet_565
+    21301132: Enemies sheet_566
+    21301134: Enemies sheet_567
+    21301136: Enemies sheet_568
+    21301138: Enemies sheet_569
+    21301140: Enemies sheet_570
+    21301142: Enemies sheet_571
+    21301144: Enemies sheet_572
+    21301146: Enemies sheet_573
+    21301148: Enemies sheet_574
+    21301150: Enemies sheet_575
+    21301152: Enemies sheet_576
+    21301154: Enemies sheet_577
+    21301156: Enemies sheet_578
+    21301158: Enemies sheet_579
+    21301160: Enemies sheet_580
+    21301162: Enemies sheet_581
+    21301164: Enemies sheet_582
+    21301166: Enemies sheet_583
+    21301168: Enemies sheet_584
+    21301170: Enemies sheet_585
+    21301172: Enemies sheet_586
+    21301174: Enemies sheet_587
+    21301176: Enemies sheet_588
+    21301178: Enemies sheet_589
+    21301180: Enemies sheet_590
+    21301182: Enemies sheet_591
+    21301184: Enemies sheet_592
+    21301186: Enemies sheet_593
+    21301188: Enemies sheet_594
+    21301190: Enemies sheet_595
+    21301192: Enemies sheet_596
+    21301194: Enemies sheet_597
+    21301196: Enemies sheet_598
+    21301198: Enemies sheet_599
+    21301200: Enemies sheet_600
+    21301202: Enemies sheet_601
+    21301204: Enemies sheet_602
+    21301206: Enemies sheet_603
+    21301208: Enemies sheet_604
+    21301210: Enemies sheet_605
+    21301212: Enemies sheet_606
+    21301214: Enemies sheet_607
+    21301216: Enemies sheet_608
+    21301218: Enemies sheet_609
+    21301220: Enemies sheet_610
+    21301222: Enemies sheet_611
+    21301224: Enemies sheet_612
+    21301226: Enemies sheet_613
+    21301228: Enemies sheet_614
+    21301230: Enemies sheet_615
+    21301232: Enemies sheet_616
+    21301234: Enemies sheet_617
+    21301236: Enemies sheet_618
+    21301238: Enemies sheet_619
+    21301240: Enemies sheet_620
+    21301242: Enemies sheet_621
+    21301244: Enemies sheet_622
+    21301246: Enemies sheet_623
+    21301248: Enemies sheet_624
+    21301250: Enemies sheet_625
+    21301252: Enemies sheet_626
+    21301254: Enemies sheet_627
+    21301256: Enemies sheet_628
+    21301258: Enemies sheet_629
+    21301260: Enemies sheet_630
+    21301262: Enemies sheet_631
+    21301264: Enemies sheet_632
+    21301266: Enemies sheet_633
+    21301268: Enemies sheet_634
+    21301270: Enemies sheet_635
+    21301272: Enemies sheet_636
+    21301274: Enemies sheet_637
+    21301276: Enemies sheet_638
+    21301278: Enemies sheet_639
+    21301280: Enemies sheet_640
+    21301282: Enemies sheet_641
+    21301284: Enemies sheet_642
+    21301286: Enemies sheet_643
+    21301288: Enemies sheet_644
+    21301290: Enemies sheet_645
+    21301292: Enemies sheet_646
+    21301294: Enemies sheet_647
+    21301296: Enemies sheet_648
+    21301298: Enemies sheet_649
+    21301300: Enemies sheet_650
+    21301302: Enemies sheet_651
+    21301304: Enemies sheet_652
+    21301306: Enemies sheet_653
+    21301308: Enemies sheet_654
+    21301310: Enemies sheet_655
+    21301312: Enemies sheet_656
+    21301314: Enemies sheet_657
+    21301316: Enemies sheet_658
+    21301318: Enemies sheet_659
+    21301320: Enemies sheet_660
+    21301322: Enemies sheet_661
+    21301324: Enemies sheet_662
+    21301326: Enemies sheet_663
+    21301328: Enemies sheet_664
+    21301330: Enemies sheet_665
+    21301332: Enemies sheet_666
+    21301334: Enemies sheet_667
+    21301336: Enemies sheet_668
+    21301338: Enemies sheet_669
+    21301340: Enemies sheet_670
+    21301342: Enemies sheet_671
+    21301344: Enemies sheet_672
+    21301346: Enemies sheet_673
+    21301348: Enemies sheet_674
+    21301350: Enemies sheet_675
+    21301352: Enemies sheet_676
+    21301354: Enemies sheet_677
+    21301356: Enemies sheet_678
+    21301358: Enemies sheet_679
+    21301360: Enemies sheet_680
+    21301362: Enemies sheet_681
+    21301364: Enemies sheet_682
+    21301366: Enemies sheet_683
+    21301368: Enemies sheet_684
+    21301370: Enemies sheet_685
+    21301372: Enemies sheet_686
+    21301374: Enemies sheet_687
+    21301376: Enemies sheet_688
+    21301378: Enemies sheet_689
+    21301380: Enemies sheet_690
+    21301382: Enemies sheet_691
+    21301384: Enemies sheet_692
+    21301386: Enemies sheet_693
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemies sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 754
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 758
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 758
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 758
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 758
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 758
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 758
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 758
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 759
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 758
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 754
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 758
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 758
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 758
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 758
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 758
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 758
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 758
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 758
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 758
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 728
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 732
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 732
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 732
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 732
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 732
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 732
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 732
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 732
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 732
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_30
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 728
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 732
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_32
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 732
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 733
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_34
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 732
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 733
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_36
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 732
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 733
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_38
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 733
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_39
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 732
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 702
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 706
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 706
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_46
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 706
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 706
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_49
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_50
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 702
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_52
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 707
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 706
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 707
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 706
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_56
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 707
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 706
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_58
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 706
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_59
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 676
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_61
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 680
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_62
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 680
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 681
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 680
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 681
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_66
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 680
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_67
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 681
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_68
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 682
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_69
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 680
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_70
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 676
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 680
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_72
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 680
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_73
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 680
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_74
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 681
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 680
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_76
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 680
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_77
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 680
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_78
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 680
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_79
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 680
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 650
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_81
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 654
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_82
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 654
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_83
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 654
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_84
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 654
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_85
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 654
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_86
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 654
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_87
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 654
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_88
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 654
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_89
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 654
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_90
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 656
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_91
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 656
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_92
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 657
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_93
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 650
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_94
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 654
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_95
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 655
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_96
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 654
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_97
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 655
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_98
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 654
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_99
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 655
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_100
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 654
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_101
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 654
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_102
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 654
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_103
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 646
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_104
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 644
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_105
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_106
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 618
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_107
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 618
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_108
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 636
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_109
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 636
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_110
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 636
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_111
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 636
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_112
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 636
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_113
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 636
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_114
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 638
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_115
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 638
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_116
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 622
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_117
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 622
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_118
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 622
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_119
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 622
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_120
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 623
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_121
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 622
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_122
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 622
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_123
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 622
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_124
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 622
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_125
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 622
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_126
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 622
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_127
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 628
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_128
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 623
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 620
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_130
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 618
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_131
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 618
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_132
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 618
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_133
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 618
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_134
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 619
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_135
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 618
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_136
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 618
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_137
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 592
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_138
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 596
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_139
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 596
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 596
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_141
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 596
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_142
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 596
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_143
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 596
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_144
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 597
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_145
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 597
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_146
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 596
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_147
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 598
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_148
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 596
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_149
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 597
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_150
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 601
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_151
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 592
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_152
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 596
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_153
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 597
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_154
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 597
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_155
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 597
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_156
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 597
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_157
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 597
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_158
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 597
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_159
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 597
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_160
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 597
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_161
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 596
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_162
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 562
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_163
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 566
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_164
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 566
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: .135166407, y: .331713855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_165
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 566
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_166
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 566
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_167
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 566
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_168
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 566
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_169
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 566
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_170
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 566
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_171
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 566
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_172
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 566
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_173
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 566
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_174
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 562
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_175
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 566
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_176
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 575
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_177
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 575
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_178
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 575
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_179
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 575
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_180
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 570
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_181
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 570
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_182
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 570
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_183
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 557
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_184
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 557
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_185
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 557
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_186
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 557
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_187
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 560
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_188
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 561
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_189
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 561
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_190
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 522
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_191
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_192
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 536
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 536
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_194
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 536
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_195
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 536
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_196
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 536
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_197
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 536
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_198
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 522
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_199
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_200
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 522
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_201
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 522
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_202
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 520
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_203
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 520
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_204
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 524
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_205
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 524
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_206
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 524
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_207
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 518
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_208
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 518
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_209
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 518
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_210
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 518
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_211
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 518
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 520
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_213
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 521
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_214
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 522
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_215
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_216
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_217
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 494
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_218
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 493
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_219
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 492
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_220
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 494
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_221
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 493
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_222
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 492
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_223
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 491
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_224
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 492
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_225
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 494
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_226
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 493
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_227
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 498
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_228
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_229
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_230
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 501
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_231
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 501
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_232
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 502
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_233
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 502
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_234
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 502
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_235
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 503
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_236
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 492
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_237
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 491
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_238
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 484
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_239
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 484
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_240
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 484
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_241
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 485
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_242
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 486
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_243
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 486
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_244
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_245
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 462
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_246
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 456
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_247
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 456
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_248
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 456
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_249
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 456
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_250
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 462
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_251
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 462
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_252
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 462
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_253
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_254
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 462
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_255
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 462
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_256
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 462
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_257
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 462
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_258
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 462
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_259
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 462
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_260
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 462
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_261
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 462
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_262
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 462
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_263
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 464
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_264
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 464
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_265
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 463
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_266
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 466
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_267
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 466
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_268
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 466
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_269
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 430
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_270
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_271
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 432
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_272
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 431
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_273
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 433
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_274
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 432
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_275
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 433
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_276
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 432
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_277
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 430
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_278
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 429
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_279
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_280
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 445
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_281
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 444
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_282
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 443
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_283
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 444
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_284
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 445
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_285
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 444
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_286
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 443
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_287
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 444
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_288
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 429
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_289
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 428
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_290
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 426
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_291
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 428
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_292
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 427
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_293
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 428
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_294
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 429
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_295
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 431
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_296
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_297
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_298
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_299
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 404
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_300
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_301
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 404
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_302
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 404
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_303
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 404
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_304
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 405
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_305
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 405
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_306
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 406
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_307
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 409
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_308
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 410
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_309
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_310
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_311
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 403
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_312
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 404
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_313
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 404
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_314
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 405
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_315
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 403
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_316
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 404
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_317
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 404
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_318
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 404
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_319
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 404
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_320
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 411
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_321
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 411
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_322
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_323
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 371
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_324
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_325
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_326
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 375
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_327
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_328
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 375
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_329
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_330
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 375
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_331
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 375
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_332
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 375
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_333
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 378
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_334
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 376
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_335
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 376
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_336
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 386
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_337
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 371
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_338
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_339
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 384
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_340
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 384
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_341
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 384
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_342
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 384
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_343
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 384
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_344
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 384
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_345
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 376
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_346
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 379
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_347
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 366
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_348
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 366
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_349
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 366
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_350
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_351
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 369
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_352
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 370
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_353
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 370
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_354
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_355
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_356
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_357
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 334
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_358
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_359
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 339
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_360
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 338
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_361
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 339
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_362
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 338
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_363
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 339
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_364
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 338
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_365
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 338
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_366
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 338
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_367
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 340
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_368
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 338
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_369
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 334
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_370
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_371
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 349
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_372
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 348
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_373
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 348
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_374
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 349
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_375
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 348
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_376
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 348
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_377
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_378
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 331
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_379
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 330
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_380
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 330
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_381
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 330
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_382
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 334
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_383
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 334
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_384
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 334
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_385
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_386
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_387
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_388
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 308
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_389
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_390
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 308
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_391
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 308
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_392
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 308
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_393
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 308
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_394
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_395
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 308
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_396
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 308
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_397
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 310
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_398
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 308
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_399
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 312
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_400
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 304
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_401
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_402
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 308
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_403
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 308
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_404
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 317
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_405
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 316
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_406
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 316
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_407
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 318
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_408
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 303
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_409
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 304
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_410
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 304
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_411
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 304
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_412
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 304
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_413
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 304
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_414
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_415
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_416
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 271
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_417
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 271
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_418
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 271
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_419
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 271
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_420
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 272
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_421
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 272
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_422
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 271
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_423
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 271
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_424
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_425
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 271
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_426
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 272
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_427
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 273
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_428
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 275
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_429
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_430
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_431
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 281
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_432
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 281
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_433
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 282
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_434
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 275
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_435
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 274
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_436
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 274
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_437
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 280
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_438
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_439
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 264
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_440
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_441
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 264
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_442
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 265
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_443
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 266
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_444
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 267
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_445
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 267
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_446
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_447
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_448
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 233
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_449
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 233
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_450
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 233
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_451
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 242
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_452
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 242
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_453
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_454
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 242
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_455
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 242
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_456
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 242
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_457
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 241
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_458
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 241
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_459
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 241
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_460
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_461
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_462
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 246
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_463
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 246
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_464
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 246
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_465
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 246
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_466
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_467
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 228
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_468
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_469
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_470
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 230
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_471
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 229
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_472
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 228
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_473
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 228
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_474
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 234
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_475
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 238
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_476
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_477
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 202
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_478
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_479
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 207
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_480
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 206
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_481
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 207
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_482
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 206
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_483
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 206
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_484
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 206
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_485
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 206
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_486
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 206
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_487
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 211
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_488
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 210
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_489
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 210
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_490
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 210
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_491
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 202
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_492
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_493
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 202
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_494
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 202
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_495
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 202
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_496
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 202
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_497
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 202
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_498
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 202
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_499
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 202
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_500
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 202
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_501
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 165
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_502
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 169
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_503
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 176
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_504
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 176
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_505
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 176
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_506
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 177
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_507
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 165
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_508
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 169
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_509
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 178
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_510
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 178
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_511
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_512
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 178
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_513
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_514
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_515
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 160
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_516
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 162
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_517
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_518
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 160
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_519
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 162
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_520
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 162
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_521
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 162
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_522
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 161
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_523
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 162
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_524
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 161
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_525
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 163
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_526
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 161
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_527
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_528
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_529
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 143
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_530
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 142
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_531
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 142
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_532
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 143
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_533
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 143
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_534
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 143
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_535
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_536
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 142
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_537
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_538
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_539
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 129
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_540
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 129
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_541
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 129
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_542
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 129
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_543
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 130
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_544
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 129
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_545
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 128
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_546
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_547
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 125
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_548
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_549
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 127
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_550
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 128
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_551
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_552
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_553
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 133
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_554
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 135
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_555
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 133
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_556
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_557
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 124
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_558
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_559
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_560
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 100
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_561
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 100
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_562
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 100
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_563
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 100
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_564
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_565
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 106
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_566
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_567
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_568
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 101
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_569
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 102
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_570
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_571
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_572
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_573
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_574
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_575
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_576
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_577
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_578
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_579
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_580
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 73
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_581
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_582
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 73
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_583
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 73
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_584
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 73
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_585
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 73
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_586
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 73
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_587
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 73
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_588
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 70
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_589
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_590
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_591
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 74
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_592
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_593
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 74
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_594
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 74
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_595
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 74
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_596
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 74
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_597
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 74
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_598
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_599
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_600
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_601
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_602
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_603
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_604
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 37
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_605
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 38
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_606
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_607
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 46
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_608
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 45
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_609
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 41
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_610
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 45
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_611
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 32
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_612
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_613
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 48
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_614
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 48
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_615
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 48
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_616
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 48
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_617
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 48
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_618
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_619
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 37
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_620
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 37
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_621
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 36
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_622
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 38
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_623
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 25
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_624
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 25
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_625
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 25
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_626
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_627
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 25
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_628
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 26
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_629
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_630
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_631
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_632
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 10
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_633
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_634
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 11
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_635
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 10
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_636
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_637
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 10
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_638
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 11
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_639
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 11
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_640
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 13
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_641
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 12
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_642
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 11
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_643
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 13
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_644
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 13
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_645
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 13
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_646
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 13
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_647
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 13
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_648
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 13
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_649
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_650
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 13
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_651
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 13
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_652
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 13
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_653
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 13
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_654
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 13
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_655
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 13
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_656
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 13
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_657
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_658
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 13
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_659
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 13
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_660
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 13
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_661
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_662
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_663
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_664
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 13
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_665
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 13
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_666
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 13
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_667
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_668
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_669
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 13
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_670
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_671
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 11
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_672
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 3
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_673
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_674
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_675
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_676
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_677
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_678
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_679
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_680
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_681
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 3
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_682
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_683
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_684
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_685
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_686
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_687
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_688
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_689
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_690
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_691
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_692
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemies sheet_693
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

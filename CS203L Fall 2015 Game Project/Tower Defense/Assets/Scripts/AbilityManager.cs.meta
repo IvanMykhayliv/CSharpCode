@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f8f9eda18511cce43b1df5745313ed7b
+timeCreated: 1459883321
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Canvas: {instanceID: 0}
+  - AbilityStore: {instanceID: 0}
+  - White: {instanceID: 0}
+  - johnCena: {instanceID: 0}
+  - ludospeed: {fileID: 180234, guid: a8cc26871d66c3b45b5c2e7a3031e5e8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
