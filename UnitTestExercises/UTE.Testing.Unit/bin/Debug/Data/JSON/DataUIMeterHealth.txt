@@ -1,0 +1,28 @@
+{
+   "meterRootObject":
+   {
+      "pos":
+	  {
+		"dim3":
+		[
+			"10",
+			"-20",
+			"0"
+		]
+	  }
+   },
+   
+   "meterBar":
+   {
+	  "pos":
+	  {
+		"dim3":
+		[
+			"2",
+			"-12",
+			"0"
+		]
+	  },
+      "txreFilename": "MeterHPBaseLength.png"
+   }
+}

@@ -1,0 +1,17 @@
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\bin\Debug\UTE.Testing.Unit.dll
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\bin\Debug\UTE.Testing.Unit.pdb
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\obj\Debug\UTE.Testing.Unit.csproj.CoreCompileInputs.cache
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\obj\Debug\UTE.Testing.Unit.csproj.CopyComplete
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\obj\Debug\UTE.Testing.Unit.dll
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\obj\Debug\UTE.Testing.Unit.pdb
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\obj\Debug\UTE.Testing.Unit.csproj.AssemblyReference.cache
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\bin\Debug\Newtonsoft.Json.dll
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\bin\Debug\Newtonsoft.Json.xml
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UTE.Testing.Unit\bin\Debug\Data\JSON\DataUIMeterHealth.txt

@@ -1,0 +1,16 @@
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\obj\Debug\net5.0\UnitTestExercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\obj\Debug\net5.0\UnitTestExercises.AssemblyInfoInputs.cache
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\obj\Debug\net5.0\UnitTestExercises.AssemblyInfo.cs
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\obj\Debug\net5.0\UnitTestExercises.csproj.CoreCompileInputs.cache
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\bin\Debug\net5.0\UnitTestExercises.exe
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\bin\Debug\net5.0\UnitTestExercises.deps.json
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\bin\Debug\net5.0\UnitTestExercises.runtimeconfig.json
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\bin\Debug\net5.0\UnitTestExercises.runtimeconfig.dev.json
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\bin\Debug\net5.0\UnitTestExercises.dll
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\bin\Debug\net5.0\ref\UnitTestExercises.dll
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\bin\Debug\net5.0\UnitTestExercises.pdb
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\obj\Debug\net5.0\UnitTestExercises.dll
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\obj\Debug\net5.0\ref\UnitTestExercises.dll
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\obj\Debug\net5.0\UnitTestExercises.pdb
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\obj\Debug\net5.0\UnitTestExercises.genruntimeconfig.cache
+D:\Ivan_Work_Docs\Exercises\UnitTestExercises\UnitTestExercises\obj\Debug\net5.0\UnitTestExercises.csproj.AssemblyReference.cache
